@@ -98,7 +98,7 @@ hover-col: "#a9b7c0"
 footer-col: "#a9b7c0"
 footer-text-col: "#777777"
 #footer-link-col: "#404040"
-footer-link-col: "#a9b7c0"
+footer-link-col: "#f4f4f4"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -162,7 +162,7 @@ footer-link-col: "#a9b7c0"
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: "_"
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
@@ -174,7 +174,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
