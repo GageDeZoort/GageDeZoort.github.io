@@ -85,15 +85,16 @@ excerpt_length: 50
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#F5F5F5"
-navbar-col: "#c7bbc9"
+navbar-col: "#c7d8b6"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 #page-col: "#FFFFFF"
-page-col: "#bfb5b2"
-link-col: "#008AFF"
+page-col: "#f4f4f4"
+#link-col: "#008AFF"
+link-col: "#a9b7c0"
 hover-col: "#0085A1"
 #footer-col: "#F5F5F5"
-footer-col: "#c7bbc9"
+footer-col: "#cccbc6"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
