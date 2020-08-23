@@ -16,6 +16,7 @@ navbar-links:
   Research: "research"
   Music: "music"
   Resources:
+    - Interaction Network: "interactionnetwork"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"  
 
