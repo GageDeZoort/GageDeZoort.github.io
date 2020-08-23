@@ -13,13 +13,13 @@ author: Gage DeZoort
 
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
+  Research: 
+    - Graph Neural Networks for Particle Tracking: "gnns"
+    - Higgs Hunting in Extended Higgs Sectors: "higgs"
+    - Catching Cosmic Ray Muons: "muondetector"
+  Notes: "notes"
   Music: "music"
-  Resources:
-    - Interaction Network: "interactionnetwork"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"  
-
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
